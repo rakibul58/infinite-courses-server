@@ -10,7 +10,7 @@
         "author": {
             "name": "Lennie Stollsteimer",
             "published_date": "4/1/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
         }
     },
     {
@@ -24,7 +24,7 @@
         "author": {
             "name": "Lawrence Edwardes",
             "published_date": "8/8/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1584999734482-0361aecad844?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
         }
     },
     {
@@ -38,7 +38,7 @@
         "author": {
             "name": "Melodie Derx",
             "published_date": "2/11/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1564164841584-391b5c7b590c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
         }
     },
     {
@@ -52,7 +52,7 @@
         "author": {
             "name": "Arne Caesar",
             "published_date": "9/25/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1559582930-bb01987cf4dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
         }
     },
     {
@@ -66,7 +66,7 @@
         "author": {
             "name": "Cornie Aspden",
             "published_date": "1/23/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1535931737580-a99567967ddc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
         }
     },
     {
@@ -80,7 +80,7 @@
         "author": {
             "name": "Cati Dominec",
             "published_date": "5/8/2022",
-            "img": null
+            "img": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
         }
     }
 ]
