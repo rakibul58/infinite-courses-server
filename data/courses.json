@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
+        "title": "Learn Python: The Complete Python Programming Course",
+        "price": 68,
+        "description": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+        "purchased": 883,
+        "rating": 4,
+        "author": {
+            "name": "Lennie Stollsteimer",
+            "published_date": "4/1/2022",
+            "img": null
+        }
+    },
+    {
+        "id": 2,
+        "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.png",
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "price": 69,
+        "description": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+        "purchased": 348,
+        "rating": 3,
+        "author": {
+            "name": "Lawrence Edwardes",
+            "published_date": "8/8/2022",
+            "img": null
+        }
+    },
+    {
+        "id": 3,
+        "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/697985/CSS-378b6d3efd9d4b88e2226fd47b403a15-40e120ef73a819e175d5e08c44d175cd-30f8f8b378e7f8fcc3e873c73c012893.png",
+        "title": "1 Hour CSS",
+        "price": 22,
+        "description": "Learn how to code in CSS in 1 hour. This class is set up for complete beginners!",
+        "purchased": 867,
+        "rating": 2,
+        "author": {
+            "name": "Melodie Derx",
+            "published_date": "2/11/2022",
+            "img": null
+        }
+    },
+    {
+        "id": 4,
+        "image": "https://www.juanmacivico87.com/wp-content/uploads/consejos-mejor-css.png",
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "price": 66,
+        "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "purchased": 115,
+        "rating": 4,
+        "author": {
+            "name": "Arne Caesar",
+            "published_date": "9/25/2022",
+            "img": null
+        }
+    },
+    {
+        "id": 5,
+        "image": "https://media.trustradius.com/product-logos/fZ/cj/TTLP9HL5PK83.JPEG",
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "price": 76,
+        "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course",
+        "purchased": 593,
+        "rating": 5,
+        "author": {
+            "name": "Cornie Aspden",
+            "published_date": "1/23/2022",
+            "img": null
+        }
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/flutter_MzDacov.jpg",
+        "title": "Flutter & Dart - The Complete Flutter App Development Course",
+        "price": 96,
+        "description": "Build Flutter iOS and Android Apps with a Single Codebase: Learn Google's Flutter Mobile Development Framework & Dart",
+        "purchased": 211,
+        "rating": 3,
+        "author": {
+            "name": "Cati Dominec",
+            "published_date": "5/8/2022",
+            "img": null
+        }
+    }
+]
