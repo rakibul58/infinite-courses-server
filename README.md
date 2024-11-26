@@ -1,5 +1,7 @@
 # Infinite Courses
 
+[Live Link](https://infinite-courses-server.vercel.app/)
+
 ## Overview
 This is the backend server for the Infinite Courses application, built with Express.js.
 
